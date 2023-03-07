@@ -23,7 +23,6 @@ To get started with PolyTrade, follow these steps:
 ## Community
 
 <img src="https://github.com/polytrade-finance/.github/blob/main/profile/Finance-Rise500.gif"  width="150">
-![TradeFinance](https://github.com/polytrade-finance/.github/blob/main/profile/Finance-Rise500.gif)
 Join the PolyTrade community to stay up-to-date on the latest news and updates:
 
 -   [Twitter](https://twitter.com/Polytrade_fin)
